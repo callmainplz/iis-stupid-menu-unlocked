@@ -7,8 +7,8 @@
 ---
 
 <p align="center">
-	<a href="https://github.com/callmainplz/iis-stupid-menu-unlocked/releases"><img src="https://img.shields.io/github/v/release/iiDk-the-actual/iis.Stupid.Menu?label=version&style=for-the-badge"></a>
-	<a href="https://github.com/callmainplz/iis-stupid-menu-unlocked/releases/latest"><img src="https://img.shields.io/github/downloads/iiDk-the-actual/iis.Stupid.Menu/latest/iis_Stupid_Menu.dll?style=for-the-badge"></a>
+	<a href="https://github.com/callmainplz/iis-stupid-menu-unlocked/releases"><img src="https://img.shields.io/github/v/release/callmainplz/iis-stupid-menu-unlocked?label=version&style=for-the-badge"></a>
+	<a href="https://github.com/callmainplz/iis-stupid-menu-unlocked/releases/latest"><img src="https://img.shields.io/github/downloads/callmainplz/iis-stupid-menu-unlocked/latest/iis_Stupid_Menu.dll?style=for-the-badge"></a>
 </p>
 
 ---
